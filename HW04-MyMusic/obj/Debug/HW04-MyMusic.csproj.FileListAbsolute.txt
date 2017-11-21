@@ -1,0 +1,15 @@
+C:\Users\paulc\source\repos\HW04-MyMusic\HW04-MyMusic\obj\Debug\HW04-MyMusic.csprojResolveAssemblyReference.cache
+C:\Users\paulc\source\repos\HW04-MyMusic\HW04-MyMusic\obj\Debug\HW04-MyMusic.csproj.CoreCompileInputs.cache
+C:\Users\paulc\source\repos\HW04-MyMusic\HW04-MyMusic\bin\Debug\HW04-MyMusic.dll
+C:\Users\paulc\source\repos\HW04-MyMusic\HW04-MyMusic\bin\Debug\HW04-MyMusic.pdb
+C:\Users\paulc\source\repos\HW04-MyMusic\HW04-MyMusic\bin\Debug\HW04_MyMusic.HW04_MyMusic.apk
+C:\Users\paulc\source\repos\HW04-MyMusic\HW04-MyMusic\bin\Debug\HW04_MyMusic.HW04_MyMusic-Signed.apk
+C:\Users\paulc\source\repos\HW04-MyMusic\HW04-MyMusic\obj\Debug\HW04-MyMusic.dll
+C:\Users\paulc\source\repos\HW04-MyMusic\HW04-MyMusic\obj\Debug\HW04-MyMusic.pdb
+C:\Users\paulc\source\repos\HW04-MyMusic\HW04-MyMusic\obj\Debug\android\bin\HW04_MyMusic.HW04_MyMusic.apk
+C:\Users\paulc\source\repos\HW04-MyMusic\HW04-MyMusic\obj\Debug\res\layout\main.xml
+C:\Users\paulc\source\repos\HW04-MyMusic\HW04-MyMusic\obj\Debug\res\values\strings.xml
+C:\Users\paulc\source\repos\HW04-MyMusic\HW04-MyMusic\obj\Debug\R.cs.flag
+C:\Users\paulc\source\repos\HW04-MyMusic\HW04-MyMusic\obj\Debug\uploadflags.txt
+C:\Users\paulc\source\repos\HW04-MyMusic\HW04-MyMusic\bin\Debug\HW04-MyMusic.dll.mdb
+C:\Users\paulc\source\repos\HW04-MyMusic\HW04-MyMusic\obj\Debug\android\assets\HW04-MyMusic.dll.mdb

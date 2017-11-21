@@ -1,0 +1,4 @@
+HW04_MyMusic.MainActivity, HW04-MyMusic;md5e21186c96f0f98d61b80d5437dea3cf3.MainActivity
+HW04_MyMusic.MainActivity, HW04-MyMusic, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e21186c96f0f98d61b80d5437dea3cf3.MainActivity
+HW04_MyMusic.MainActivity;md5e21186c96f0f98d61b80d5437dea3cf3.MainActivity
+hw04_mymusic.MainActivity;md5e21186c96f0f98d61b80d5437dea3cf3.MainActivity
